@@ -1,0 +1,20 @@
+.form-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4%;
+}
+
+.form-body h1 {
+  font-size: 3.2rem;
+  margin-bottom: 2.4rem;
+}
+
+.form-body__text {
+  font-size: 1.2rem;
+}
+
+.form-body__header {
+  color: #fff;
+  width: 33%;
+}
